@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Local agent tooling
+.agents/
+.claude/
+.codex/
+.mcp.json
+CLAUDE.local.md
+skills-lock.json
